@@ -3,6 +3,8 @@
 
 Este é um projeto simples de **Amigo Secreto**, onde os usuários podem adicionar nomes de amigos a uma lista e realizar um sorteio aleatório para definir o amigo secreto. O projeto utiliza HTML, CSS e JavaScript puro para demonstrar conceitos de manipulação do DOM, arrays e funções.
 
+Acesse em: https://sayorita.github.io/amigoSecreto/
+
 ## Funcionalidades
 
 - **Adicionar Nomes:**  
